@@ -1,0 +1,60 @@
+Final Capstone Project Production
+
+Controls: 
+W = Forward 
+S = Backward
+A or D = Side Movement
+Mouse = Look around 
+Left Click = Laser 
+Right Click = Bomb 
+Escape Key = Closing the game
+
+Before:
+1. Game Overview
+Title: SolarSCape
+Genre: Sci-fi Open World
+Platform: PC
+Target Audience: General Audience
+
+4. Story and Narrative
+Story Synopsis: Explore and learn facts about the Solar System
+Characters: You
+
+5. Art and Audio
+Visual Style: Low-Poly
+Audio Style: Undetermined
+
+6. Level Design
+Level Layout: The Solar System (8 planets all accessable)
+Puzzles or Challenges: Undetermined
+
+7. User Interface (UI) Design
+UI Layout: Undetermined
+
+8. Technical Specifications
+Game Engine: Unity 
+
+After:
+1. Game Overview
+Title: SolarScape
+Genre: Sci-fi Level-Based
+Platform: PC
+Target Audience: General Audience
+
+4. Story and Narrative
+Story Synopsis: Navigate from Neptune to Earth without getting destroyed by the enemy or hazards
+Characters: You, enemy ships
+
+5. Art and Audio
+Visual Style: Low-Poly
+Audio Style: None
+
+6. Level Design
+Level Layout: The Solar System (from Neptune to Earth)
+Puzzles or Challenges: Players will have to navigate to Earth without dying.
+
+7. User Interface (UI) Design
+UI Layout: A health and energy bar 
+
+8. Technical Specifications
+Game Engine: Unity 
